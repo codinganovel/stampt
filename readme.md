@@ -53,6 +53,11 @@ Cross-platform, zero dependencies (except pyperclip)
 
 Python 3.6+
 argparse, Pathlib, pyperclip
-📘 License
 
-MIT — make it yours, fork it, hack it, ship it. made by sam.
+## 📄 License
+
+under ☕️, check out [the-coffee-license](https://github.com/codinganovel/The-Coffee-License)
+
+I've included both licenses with the repo, do what you know is right. The licensing works by assuming your operating under good faith.
+
+— make it yours, fork it, hack it, ship it. made by sam.
